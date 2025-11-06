@@ -1,0 +1,10 @@
+diff --git a/pointers_arrays_strings/3-puts.c b/pointers_arrays_strings/3-puts.c
+index c65b433..d828de2 100644
+--- a/pointers_arrays_strings/3-puts.c
++++ b/pointers_arrays_strings/3-puts.c
+@@ -1,5 +1,4 @@
+ #include "main.h"
+-
+ #include <stdio.h>
+ 
+ /**
